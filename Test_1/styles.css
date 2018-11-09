@@ -50,13 +50,14 @@ font-weight:normal;
 #g3  {
     border-style: dotted;
     border-color: green;
-    padding-top: 10px;
+    padding-top: 10px;    margin: 3px;
 }
  #p{
     border-style: dotted;
     border-color: green;
-    padding-top: 10px;
+    padding-top: 10px;    margin: 3px;
 }
+
 
 
 #penguin {
