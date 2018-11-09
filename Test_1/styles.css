@@ -1,0 +1,67 @@
+ 
+ body {
+    background-color: white;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+span {
+    
+font-weight:normal;
+}
+.br {
+    padding-top: 20px
+    
+}
+
+.main{
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 140;
+    height: 100px; 
+    background-color:#99ccff;
+    box-shadow: 10px 10px;        
+    
+   }
+   
+.inline{
+    display:inline-block;
+}
+.pink{
+    background: pink;
+}
+.aqua{background: aqua;}
+.lemon{background: yellow;}
+.grape{background: purple;}
+#g1 {
+    border-style: dotted;
+    border-color: green;
+    padding-top: 10px;
+    margin: 3px;
+}
+#g2 {
+    border-style: dotted;
+    border-color: green;
+    padding-top: 10px;    margin: 3px;
+    
+}
+#g3  {
+    border-style: dotted;
+    border-color: green;
+    padding-top: 10px;
+}
+ #p{
+    border-style: dotted;
+    border-color: green;
+    padding-top: 10px;
+}
+
+
+#penguin {
+    border-style: dotted;
+    border-color: green;
+    padding-top: 10px;
+    padding-bottom: 170px;
+}
