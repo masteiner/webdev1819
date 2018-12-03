@@ -1,0 +1,60 @@
+
+#t1 { 
+    background-color: yellow;
+    padding: 50px 230px 50px 20px;
+    border-style:solid;
+}
+#t2 { 
+    background-color: white;
+    padding: 50px 150px 50px 20px;
+    border-style:solid;
+}
+#t3 { 
+    background-color: blue;
+    padding: 50px 20px 50px 20px;
+    border-style:solid;
+}
+#t4 { 
+    background-color: red;
+    padding: 50px 200px 50px 20px;
+    border-style:solid;
+}
+
+#m1 { 
+    background-color: red;
+    padding: 50px 23px 5px 20px;
+    border-style:solid;
+}
+#m2 { 
+    background-color: white;
+    padding: 50px 20px 50px 20px;
+    border-style:solid;
+}
+#b1 { 
+    background-color: lightblue;
+    padding: 50px 20px 50px 0px;
+    border-style:solid;
+}
+#b2 { 
+    background-color: white;
+    padding: 0px 160px 2px 20px;
+    border-style:solid;
+}
+#b3 { 
+    background-color: lightyellow;
+    padding: 50px 20px 50px 20px;
+    border-style:solid;
+}
+#q1 { 
+    background-color: yellow;
+    padding: 50px 20px 50px 50px;
+    border-style:solid;
+}
+#q2 { 
+    background-color: red;
+    padding: 50px 20px 50px 20px;
+    border-style:solid;
+    margin: 0px 0px 10px;
+}
+
+
